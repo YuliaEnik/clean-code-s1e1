@@ -12,11 +12,11 @@
   text-align: right;
 }
 
-.picture-block-img {
+.picture-block__img {
   width: 100%;
 }
 
-.picture-block .more-inf {
+.picture-block .picture-block__more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -40,7 +40,7 @@
   flex-grow: 1
 }
 
-.task-row-wrapper {
+.new-task__row {
   display: flex;
 }
 
