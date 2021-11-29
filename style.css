@@ -22,9 +22,9 @@
   .picture-block {
     text-align: center;
   }
-  
+
 }
-.main{
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -44,7 +44,7 @@
 li, h3 {
   list-style:none;
 }
-input,button{
+input,button {
   outline:none;
 }
 .btn {
@@ -132,7 +132,7 @@ input,button{
 }
 
 /* Completed */
-.completed-block .task-list__label{
+.completed-block .task-list__label {
   text-decoration: line-through;
   color: #888;
 }
