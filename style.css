@@ -53,6 +53,7 @@ li,
 h3 {
   list-style:none;
 }
+
 input,
 button {
   outline:none;
@@ -71,6 +72,7 @@ button {
 .btn:hover {
   color: #3a3a3a;
 }
+
 /* Heading */
 .title {
   color: #333;
@@ -100,6 +102,7 @@ button {
 .new-task__input:focus {
   color: #333;
 }
+
 /* New Task */
 .new-task__label {
   display: block;
@@ -109,6 +112,7 @@ button {
 .new-task__input {
   width: 318px;
 }
+
 /* Task list */
 .task-list__item {
   overflow: hidden;
@@ -147,11 +151,13 @@ button {
 .task-list__btn-delete-img:hover {
   transform: rotateZ(0);
 }
+
 /* Completed */
 .completed-block .task-list__label {
   text-decoration: line-through;
   color: #888;
 }
+
 /* Edit Task */
 .task-list__input-text {
   display:none
